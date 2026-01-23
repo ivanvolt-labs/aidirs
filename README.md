@@ -1,84 +1,142 @@
-# Aidirs.best - AI Tools Directory
+# Aidirs.best – AI Tools Directory for Backlinks & Discovery
 
-> Public landing repository for Aidirs.best. Source code is private.
+**Aidirs.best** is a curated **AI tools directory** built for founders, indie hackers, and SEO professionals who want **high-quality dofollow backlinks**, product exposure, and AI product discovery.
 
-[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
-[![Sanity](https://img.shields.io/badge/Sanity-CMS-red?style=flat-square&logo=sanity)](https://www.sanity.io/)
+> ⚠️ This repository serves as a **public landing page** for Aidirs.best.  
+> The **source code is private** and not included in this repository.
 
-🎯 Aidirs.best is a curated AI tools directory designed for makers, founders, and SEO professionals. Submit your AI product to get high-quality dofollow backlinks, explore daily Product Hunt trending products, and discover a hand-picked list of high DR directory sites for link building.
+🌐 **Website:** https://aidirs.best
 
-## ✨ Key Features
+---
 
-- 🔗 **Dofollow Backlinks** - Get permanent, SEO-friendly dofollow links to boost your search rankings
-- 📈 **Daily PH Trending** - Discover hot AI products from Product Hunt, updated daily with the latest launches
-- 🏆 **High DR Directory List** - Curated list of 100+ high Domain Rating directory sites for quality link building
-- 🚀 **Instant Product Submission** - Submit your AI tool and get listed with automated approval for free tier
-- ⭐ **Featured Listings** - Premium placement on homepage and across all pages for maximum exposure
-- 🎯 **Curated AI Tools** - Hand-picked, quality AI tools organized by categories and use cases
-- 📊 **SEO Optimized** - DA 30+ domain authority, helping your product gain search visibility
-- 📱 **Responsive Design** - Perfect experience across desktop, tablet, and mobile devices
+## What is Aidirs.best?
 
-## 🔥 Why Submit Your Product?
+Aidirs.best helps AI founders **get discovered faster** by combining:
 
-| Benefit | Description |
-|---------|-------------|
-| **Permanent Dofollow Links** | Get 1-3+ quality backlinks that stay forever |
-| **Domain Authority 30** | High-quality backlinks that boost your search rankings |
-| **Instant Listing** | Free tier with automated submission process |
-| **Targeted Traffic** | Reach 1k+ monthly visitors actively seeking AI solutions |
-| **Featured Placement** | Premium plans offer homepage and site-wide exposure |
+- 🔗 Permanent **dofollow backlinks**
+- 🗂️ Curated AI product listings
+- 🔥 Daily **Product Hunt trending** tracking
+- 📈 A hand-picked list of **high DR directory sites** for safe link building
 
-## 📈 Product Hunt Trending
+Unlike generic directories, Aidirs.best focuses on **real SEO value and real visibility**, not just listings.
 
-Stay updated with the hottest AI products launched on Product Hunt:
+---
 
-- **Daily Updates** - Fresh trending products synced every day
-- **Topic Filtering** - Browse by AI categories and topics
-- **Historical Data** - Explore past launches and trending patterns
-- **Countdown Timer** - Never miss the next Product Hunt launch cycle
+## Key Benefits for Founders & Marketers
 
-## 🔗 High DR Backlink Directory
+### 🔗 Permanent Dofollow Backlinks
+- 1–3+ dofollow links per product
+- Clean HTML links (no JS redirects)
+- Built to pass real SEO authority
 
-A hand-picked list of trusted, high Domain Rating directory sites:
+### 📈 Domain Authority Boost
+- DA 30+ domain
+- Trusted by indie makers and SEO teams
+- White-hat, low-risk link building
 
-- **100+ Curated Sites** - Verified high DR directories for safe link building
-- **DR Scores Displayed** - Know the quality before you submit
-- **Regular Updates** - New directories added continuously
-- **Submit Your Directory** - Own a high DR site? Get featured in our list
+### 🚀 Fast Product Submission
+- Free tier available
+- Automated approval
+- No long manual review delays
 
-## 🗂️ AI Tool Categories
+### 🎯 Targeted AI Traffic
+- Visitors actively looking for AI tools
+- Builders, marketers, and early adopters
+- Not generic directory traffic
 
-Explore AI tools organized by use cases:
+---
 
-- 🎨 **Creative & Design** - Image, Video, Audio, 3D, and Design tools
-- 💼 **Productivity** - Task automation, collaboration, and document tools
-- 💻 **Development** - Code generation, debugging, and DevOps tools
-- 📈 **Marketing** - SEO, social media, and email marketing tools
-- 🤖 **AI & Intelligence** - Chatbots, writing assistants, and AI agents
-- 📚 **Education** - Learning, research, and language tools
+## Product Hunt Trending (Daily Sync)
 
-## 💰 Pricing Plans
+Aidirs.best tracks **daily Product Hunt trending AI products**:
 
-| Plan | Price | Benefits |
-|------|-------|----------|
-| **Free** | $0 | 1 submission, dofollow link, requires backlink to us |
-| **Pro** | $9.9/mo | Unlimited submissions, 3+ dofollow links, instant listing |
-| **Sponsor** | $19.9/wk | Everything in Pro + homepage featured, site-wide ads |
+- 📆 Daily updated trending list
+- 🧠 AI-focused filtering
+- 📊 Historical launch insights
+- ⏱️ Never miss high-momentum products
 
-## 📊 Platform Stats
+🔗 View trending AI tools:  
+https://aidirs.best/trending
 
-- ✅ 300+ featured AI products
-- 🔗 100+ high DR directory sites
-- 📈 DA 30 domain authority
+---
+
+## High DR Backlink Directory List
+
+A curated list of **trusted, high Domain Rating directory websites**:
+
+- ✅ 100+ verified directory sites
+- 📈 DR scores displayed
+- 🔄 Regularly updated
+- 🛡️ Focus on quality, not spam
+
+🔗 Browse directory list:  
+https://aidirs.best/backlinks
+
+---
+
+## AI Tool Categories Covered
+
+- 🎨 Creative & Design AI
+- 💼 Productivity & Automation
+- 💻 Developer & Coding Tools
+- 📈 Marketing & SEO AI
+- 🤖 AI Agents & Assistants
+- 📚 Education & Research Tools
+
+Each product is **manually curated** and categorized for maximum discoverability.
+
+---
+
+## Pricing Overview
+
+| Plan | Price | Highlights |
+|------|------|-----------|
+| **Free** | $0 | 1 submission, dofollow link (backlink required) |
+| **Pro** | $9.9 / month | Unlimited submissions, 3+ dofollow links |
+| **Sponsor** | $19.9 / week | Homepage feature + site-wide exposure |
+
+👉 Full pricing details:  
+https://aidirs.best
+
+---
+
+## Platform Stats
+
+- ✅ 300+ AI products listed
+- 🔗 100+ high DR directories
+- 📈 DA 30+ domain
 - 👥 1k+ monthly visitors
-- 🚀 Daily Product Hunt sync
+- 🚀 Updated daily
 
-## 🔗 Links
+---
 
-- 🌐 Website: [Aidirs.best](https://aidirs.best)
-- 📈 PH Trending: [aidirs.best/trending](https://aidirs.best/trending)
-- 🔗 Backlink List: [aidirs.best/backlinks](https://aidirs.best/backlinks)
-- 📧 Support: support@aidirs.best
-- 🐦 Twitter: [@Aidirs](https://x.com/aidirs_best)
+## Who Should Use Aidirs.best?
+
+- 🚀 AI SaaS founders launching new products
+- 🧑‍💻 Indie hackers building in public
+- 📈 SEO professionals doing white-hat link building
+- 🛠️ Makers seeking distribution beyond Product Hunt
+
+---
+
+## Important Notice
+
+This repository is provided for **informational and promotional purposes only**.  
+It does **not** include the source code of Aidirs.best.
+
+---
+
+## Links
+
+- 🌐 Website: https://aidirs.best  
+- 🔥 Product Hunt Trending: https://aidirs.best/trending  
+- 🔗 Backlink Directory: https://aidirs.best/backlinks  
+- 🐦 Twitter / X: https://x.com/aidirs_best  
+- 📧 Support: support@aidirs.best  
+
+---
+
+## License
+
+All rights reserved.  
+See the `LICENSE` file for details.
