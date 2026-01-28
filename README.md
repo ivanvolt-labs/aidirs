@@ -1,4 +1,8 @@
 # Aidirs.best – AI Tools Directory for Backlinks & Discovery
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
+[![Sanity](https://img.shields.io/badge/Sanity-CMS-red?style=flat-square&logo=sanity)](https://www.sanity.io/)
 
 **Aidirs.best** is a curated **AI tools directory** built for founders, indie hackers, and SEO professionals who want **high-quality dofollow backlinks**, product exposure, and AI product discovery.
 
